@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600;700&display=swap');
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
 	/*E-school.html*/
+	*{font-family: 'Quicksand', sans-serif;}
 	.container {
     width: 100%;
 	}
@@ -147,6 +149,7 @@
 @media (max-width: 320px), (max-width: 575.98px) {
 
 /*E-school.html*/
+	*{font-family: 'Quicksand', sans-serif;}
 	.container {
     width: 100%;
 	}
