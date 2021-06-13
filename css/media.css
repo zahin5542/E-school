@@ -15,6 +15,18 @@
     flex-direction: column;
 	align-content: flex-end;
 	}
+	header li{
+    padding: 5px;
+	}
+
+	nav ul li a {
+    font-size: 20px;
+	}
+
+	nav ul li a:hover {
+	    background: none;
+	    color: none;
+	}
 
 	.banner-section .flex{
 	flex-direction: row;
@@ -148,6 +160,18 @@
 	.flex {
     flex-direction: column;
 	align-content: flex-end;
+	}
+	header li{
+    padding: 5px;
+	}
+
+	nav ul li a {
+    font-size: 20px;
+	}
+
+	nav ul li a:hover {
+	    background: none;
+	    color: none;
 	}
 
 	.banner-section .flex{
